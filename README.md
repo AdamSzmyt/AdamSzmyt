@@ -1,14 +1,13 @@
 <div align="center">
 
-# Petro Starostsinskyi
+# Adam Szmyt
 
 Creative Software Engineer | AI/ML Engineer | Full-Stack Developer | Prompt Engineer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ruijindev0801&label=Profile%20Views&color=38bdf8&style=flat-square)](https://github.com/ruijindev0801)
-[![GitHub followers](https://img.shields.io/github/followers/ruijindev0801?label=Follow&style=flat-square&color=38bdf8)](https://github.com/ruijindev0801)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruijin9981)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ruijin9981)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ruijin.dev0801@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=ruijindev0801&label=Profile%20Views&color=38bdf8&style=flat-square)](https://github.com/AdamSzmyt)
+[![GitHub followers](https://img.shields.io/github/followers/ruijindev0801?label=Follow&style=flat-square&color=38bdf8)](https://github.com/AdamSzmyt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-szmyt-008239424)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adam.szmyt2026@outlook.com)
 
 <img width="1492" height="1054" alt="certificated" src="https://github.com/user-attachments/assets/7fd61629-16a1-4dab-8b8b-08942077441e" />
 
@@ -21,7 +20,7 @@ Creative Software Engineer | AI/ML Engineer | Full-Stack Developer | Prompt Engi
 
 ```ts
 const rui = {
-  name: "Petro Starostsinskyi",
+  name: "Adam Szmyt",
   role: "AI & Full-Stack developer",
   location: "Ukraine",
   focus: ["AI / ML", "Web Development", "Automation", "Prompt Engineering"],
@@ -45,20 +44,20 @@ My work spans full-stack applications, automation systems, AI integrations, and 
 
 <!-- <div align="center">
 
-<a href="https://github.com/ruijindev0801">
+<a href="https://github.com/AdamSzmyt">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ruijindev0801&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruijindev0801&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </a>
 
 <br /><br />
 
-<a href="https://github.com/ruijindev0801">
+<a href="https://github.com/AdamSzmyt">
   <img src="https://streak-stats.demolab.com?user=devstar9981&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
 
 <br /><br />
 
-<a href="https://github.com/ruijindev0801">
+<a href="https://github.com/AdamSzmyt">
   <img src="https://github-profile-trophy.vercel.app/?username=devstar9981&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </a>
 
@@ -269,9 +268,9 @@ Real-time GitHub data scraper with interactive dashboards for analysis and repor
 
 I am always open to discussing new projects, freelance opportunities, and collaborations.
 
-- Email: [petrostarostsinskyi@gmail.com](mailto:petrostarostsinskyi@gmail.com)
-- GitHub: [github.com/petrostarostsinskyi](https://github.com/petrostarostsinskyi)
-- Location: Ukraine
+- Email: [adam.szmyt2026@outlook.com](mailto:adam.szmyt2026@outlook.com)
+- GitHub: [github.com/AdamSzmyt](https://github.com/AdamSzmyt)
+- Location: Poland
 - Availability: Monday to Friday, 9AM - 6PM (CST)
 - Response time: Within 24 hours
 
