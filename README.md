@@ -9,8 +9,6 @@ Creative Software Engineer | AI/ML Engineer | Full-Stack Developer | Prompt Engi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-szmyt-008239424)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adam.szmyt2026@outlook.com)
 
-<img width="1492" height="1054" alt="certificated" src="https://github.com/user-attachments/assets/7fd61629-16a1-4dab-8b8b-08942077441e" />
-
 
 </div>
 
@@ -22,7 +20,7 @@ Creative Software Engineer | AI/ML Engineer | Full-Stack Developer | Prompt Engi
 const rui = {
   name: "Adam Szmyt",
   role: "AI & Full-Stack developer",
-  location: "Ukraine",
+  location: "Poland",
   focus: ["AI / ML", "Web Development", "Automation", "Prompt Engineering"],
   currentWork: "Building AI-powered tools and high-performance digital products",
   availability: "Open to freelance work and collaborations",
@@ -66,12 +64,12 @@ My work spans full-stack applications, automation systems, AI integrations, and 
 ---
 
 <div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruijindev0801&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruijindev0801&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruijindev0801&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruijindev0801&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruijindev0801&theme=nord_bright&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamSzmyt&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdamSzmyt&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdamSzmyt&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdamSzmyt&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdamSzmyt&theme=nord_bright&utcOffset=1)
 
 <br /><br />
 
@@ -156,7 +154,7 @@ My work spans full-stack applications, automation systems, AI integrations, and 
 | :--- | :---: |
 | AI / ML | Pro |
 | AI Integration | Pro |
-| Prompt Engineering | Pro |
+| WordPress / Shopify | Pro |
 | Python | Pro |
 | Full-Stack Web Development | Pro |
 | JavaScript / TypeScript | Pro |
@@ -180,11 +178,8 @@ My work spans full-stack applications, automation systems, AI integrations, and 
 
 | Period | Role | Company | Location |
 | :--- | :--- | :--- | :--- |
-| Mar 2025 - Present | AI/ML Engineer | Self-Employed | Remote, USA |
-| Jul 2022 - Jan 2026 | Prompt Engineer | Outlier.ai | Remote, USA |
-| Jun 2020 - Dec 2022 | Freelance Software Developer | Upwork | Remote, USA |
-| Sep 2019 - May 2020 | Volunteer Web Developer | Non-Profit Organization | Remote, USA |
-| Apr 2018 - Aug 2019 | Intern Software Engineer | Tech Startup | Remote, USA |
+| Nov 2025 - May 2026 | Senior System Engineer | Nutrastat | Shoreham-by-Sea, United Kingdom |
+| May 2024 - Sep 2024 | Backend Engineer | RelayTherapy | Burnley, United Kingdom |
 
 Over 5 years of experience building, shipping, and improving software across web, AI, and automation workflows.
 
@@ -192,56 +187,11 @@ Over 5 years of experience building, shipping, and improving software across web
 
 ## Education
 
-**Bachelor of Computer Science**  
-City University of Ukraine | 2014 - 2018
+**Bachelor of Science in Information Technology**  
+University of Warsaw | 2018 - 2022
 
-- Graduated with honors
-- Completed a thesis on AI-driven web applications
-- Active member of the Computer Science Club
-
----
-
-## Selected Projects
-
-### [Object Detection System](https://github.com/petrostarostsinskyi/Shark_Detection)
-AI-powered real-time marine object detection from drone footage using computer vision and YOLO-based models.
-
-**Stack:** `Python` `TensorFlow` `OpenCV` `Drone SDK` `YOLO26`
-
-- Real-time object detection and tracking
-- High-accuracy computer vision pipeline
-- Drone integration for live capture workflows
-- Monitoring interface for operational visibility
-
-### [Photo Protection System](https://github.com/petrostarostsinskyi/Photoshield_2026)
-An AI-based system for protecting Instagram photos from unauthorized use through image recognition and watermarking.
-
-**Stack:** `Python` `TensorFlow` `OpenCV` `Instagram API`
-
-- Detection of unauthorized image use
-- Watermark-based content protection
-- Instagram-related workflow integration
-- Dashboard for managing protected assets
-
-### [TrashLion SaaS Landing Page](https://www.trashlion.com/)
-Responsive, conversion-focused landing page built for a SaaS product. [Repository](https://github.com/Rui0801/trash-lion-app)
-
-**Stack:** `Next.js` `TailwindCSS` `React` `Resend`
-
-- Responsive design across devices
-- Conversion-oriented layout and calls to action
-- Email integration with Resend
-- Clean, modern UI focused on clarity and performance
-
-### [GitHub Scraping Tool](https://github.com/petrostarostsinskyi/Github_Scraper_2026)
-Real-time GitHub data scraper with interactive dashboards for analysis and reporting.
-
-**Stack:** `Python` `CustomTkinter` `GitHub API`
-
-- Real-time GitHub data collection
-- Interactive dashboards for insights
-- Desktop UI built with CustomTkinter
-- API-based reporting workflow
+- Studied Computer Science and Software Engineering.
+- Learned algorithms, data structures, object-oriented programming, database systems, operating systems, networking, and software architecture.
 
 ---
 
@@ -249,7 +199,7 @@ Real-time GitHub data scraper with interactive dashboards for analysis and repor
 
 | Projects Completed | Happy Clients | Years Experience | Client Satisfaction |
 | :---: | :---: | :---: | :---: |
-| **50+** | **30+** | **5+** | **100%** |
+| **50+** | **30+** | **7+** | **100%** |
 
 ---
 
